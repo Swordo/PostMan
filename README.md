@@ -1,0 +1,3 @@
+nmp install 
+npm start
+
